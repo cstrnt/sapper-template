@@ -13,6 +13,7 @@
   "dependencies": {
     "@polka/send-type": "^0.5.2",
     "compression": "^1.7.1",
+    "meta-marked": "^0.4.2",
     "polka": "^0.5.2",
     "sirv": "^0.4.2"
   },
